@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#3B3C36</color>
+    <color name="text">#C1B4AE</color>
+    <color name="button">#BE7C4D</color>
+    <color name="listitem">#343434</color>
+    <color name="edittext">#BE5A38</color>
+    <color name="aux_color">#92140C</color>
+    <color name="oldbackground">#3B3C36</color>
+    <color name="oldtext">#36F1CD</color>
+    <color name="oldbutton">#39A0ED</color>
+    <color name="oldlistitem">#4C6085</color>
+    <color name="oldedittext">#13C4A3</color>
+</resources>
